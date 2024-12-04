@@ -1,0 +1,82 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "钟意",
+      "url": "https://blog.thatcoder.cn/",
+      "avatar": "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp",
+      "screenshot": "https://upyun.thatcdn.cn/hexo/stellar/image/shot.webp!screenshot",
+      "description": "感谢你的阅读"
+    },
+    {
+      "title": "浩瀚星河",
+      "url": "https://haohanxinghe.com",
+      "avatar": "https://haohanxinghe.com/assets/images/avatar.jpg",
+      "screenshot": "https://image.codepzj.cn/image/202410022148697.png",
+      "description": "代码，日常，生活"
+    },
+    {
+      "title": "FlowsecNagi ' s",
+      "url": "https://abckillmen.github.io/friends/",
+      "avatar": "https://imgs.aixifan.com/o_1d1nid2r71o6fvko1oe2jirnm82d.jpg",
+      "screenshot": "",
+      "description": "某种可能性正在测试"
+    },
+    {
+      "title": "子书承宇",
+      "url": "https://hp-l.github.io/",
+      "avatar": "https://hp-l.github.io/headimg/Planck.jpg",
+      "screenshot": "https://hp-l.github.io/headimg/blog_screenshot.png",
+      "description": "霰雪纷其无垠兮，云霏霏而承宇"
+    },
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com/",
+      "avatar": "https://cdn.jsdelivr.net/gh/Sumorio/BlogPic/20240610140934.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "摸鱼不用卷",
+      "url": "https://www.moyufree.vip/",
+      "avatar": "https://s2.loli.net/2024/04/20/OIExnpZcy1NLhru.png",
+      "screenshot": "",
+      "description": "摸鱼也免费 ｜ moyufree"
+    },
+    {
+      "title": "一蓑烟雨的博客",
+      "url": "https://easyf12.top/",
+      "avatar": "https://bu.dusays.com/2023/12/24/6587c7764111a.webp",
+      "screenshot": "https://bu.dusays.com/2023/12/24/6587c8172c89e.png",
+      "description": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。"
+    },
+    {
+      "title": "SkyReeves",
+      "url": "https://skyreeves.com",
+      "avatar": "https://img.skyreeves.com/main/avatar96.gif",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "screenshot": "",
+      "description": ""
+    }
+  ]
+}
